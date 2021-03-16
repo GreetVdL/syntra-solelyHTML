@@ -1,0 +1,13 @@
+{
+  "name": "opdracht-Greet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "riddermelchiorcv.surge.sh",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
